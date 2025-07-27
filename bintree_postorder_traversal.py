@@ -80,4 +80,4 @@ if __name__ == "__main__":
 
     # Perform postorder traversal
     result = postorderTraversal(None, root)
-    print(result)  # Output: [3, 2, 1]
+    print(result) 
